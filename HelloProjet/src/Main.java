@@ -6,4 +6,10 @@ public class Main {
     public void testHelloWrold() {
         System.out.println("HelloWorld!");
     }
+
+   @Test
+    public void testHelloWrold() {
+        System.out.println("Hellozhao!");
+    }
+
 }
