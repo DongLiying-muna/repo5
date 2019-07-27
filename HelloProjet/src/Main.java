@@ -18,4 +18,9 @@ public class Main {
         System.out.println("HelloDong!");
     }
 
+ @Test
+    public void testHelloWrold() {
+        System.out.println("HelloŒ“ «she!");
+    }
+
 }
