@@ -7,6 +7,12 @@ public class Main {
         System.out.println("HelloWorld!");
     }
 
+   @Test
+    public void testHelloWrold() {
+        System.out.println("Hellozhao!");
+    }
+
+
  @Test
     public void testHelloWrold() {
         System.out.println("HelloDong!");
